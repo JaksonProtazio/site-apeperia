@@ -1,0 +1,15 @@
+@import 'helpers/variaveis';
+@import 'helpers/mixins';
+
+@import 'sprite/*.png';
+@import 'plataformas/*.png';
+
+@import 'base/normalize';
+@import 'layout/geral';
+@import 'layout/header';
+@import 'layout/destaque';
+@import 'layout/planos';
+@import 'layout/sobre';
+@import 'layout/blog';
+@import 'layout/contato';
+@import 'layout/footer';
